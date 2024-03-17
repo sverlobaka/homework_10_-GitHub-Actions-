@@ -1,5 +1,5 @@
+"""
+Main module
+"""
+
 print("Hello")
-
-
-
-
